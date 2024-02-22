@@ -1,5 +1,3 @@
-# Belly Button Challenge
-
 ## Dashboard for Belly Button Biodiversity
 
 This dashboard displays the belly button biodiversity data of individuals. The following features are implemented:
